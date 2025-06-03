@@ -38,7 +38,7 @@ The app is designed to provide a clean and accessible weather interface with:
 <h2>🛠️ Notes</h2>
 Built using eas build for Android and iOS
 
-iOS .ipa not included due to Apple provisioning restrictions
+iOS .ipa not included due to Apple provisioning restrictions. While building for iOS it asked to login Apple account. If you have Apple account you can build it and run the application.
 
 # Running React Native and Expo application
 
