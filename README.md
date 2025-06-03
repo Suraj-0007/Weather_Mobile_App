@@ -15,7 +15,7 @@
 <h3>
   📱 Android Preview (APK)
 <p>If you'd like to test the app on an Android device:</p>
-🔗 Download the APK here
+🔗 Download the APK here : https://expo.dev/accounts/suraj_0007/projects/weather-app/builds/3712d8f3-336e-4362-be55-49f7724e4b38
 
 <p>📝 Note: This APK is only available for Android. iOS builds require TestFlight or a registered Apple device and are not shared here.</p>
 </h3>
