@@ -12,7 +12,13 @@
 
 <h2 align="center">Consuming the OpenWeather api in the free version, I developed this app that shows information of the location you searched for. To be able to use the api it's necessary to create a .env file in the root directory and save the api key.
 </h2>
+<h3>
+  📱 Android Preview (APK)
+<p>If you'd like to test the app on an Android device:</p>
+🔗 Download the APK here
 
+<p>📝 Note: This APK is only available for Android. iOS builds require TestFlight or a registered Apple device and are not shared here.</p>
+</h3>
 ## ⚙️ Technologies
 
 - [ ] Typescript
