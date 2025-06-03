@@ -19,7 +19,8 @@
 
 <p>📝 Note: This APK is only available for Android. iOS builds require TestFlight or a registered Apple device and are not shared here.</p>
 </h3>
-## ⚙️ Technologies
+
+<h2>⚙️ Technologies</h2>
 
 - [ ] Typescript
 - [ ] React Js
